@@ -1,0 +1,13 @@
+//WAP to perform division of two numbers
+
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main()
+{
+int n1,n2, div;
+cin>>n1>>n2;
+div=n1/n2;
+cout<<"Division of two numbers is:"<<div<<endl;
+return 0;
+}
